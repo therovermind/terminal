@@ -1,5 +1,5 @@
-# Sahdeep Singh   
-##  sahdeepsingh.github.io/terminal [Live Demo](https://sahdeepsingh.github.io/terminal/)
+# Ankur Singhal  
+##  therovermind.github.io/terminal [Live Demo](https://therovermind.github.io/terminal/)
 
-This repo is cloned from his https://dhruvkb.github.io repo.
+This repo is cloned from his https://sahdeepsingh.github.io repo.
 All thanks goes to him.
